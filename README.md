@@ -1,6 +1,3 @@
-Got you — here’s a **single, clean, copy-pasteable README.md** you can drop straight into your repo. It’s written to match the task rubric and score well with reviewers:
-
-```md
 # Message Similarity Finder (TF-IDF + Cosine Similarity)
 
 ## 📌 Overview
@@ -30,8 +27,7 @@ All processing is done locally. No external APIs or vector databases are used.
 
 ## 🏗️ Project Structure
 
-```
-
+````
 message-similarity/
 ├── main.py
 ├── embeddings/
